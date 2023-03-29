@@ -32,8 +32,8 @@ import tesla from "./company/tesla.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
-import mateAcademy from "./icons/mateAcademy.png";
-import ideainyou from "./icons/ideainyou.png";
+import mateAcademy from "./company/mateAcademy.png";
+import ideainyou from "./company/ideainyou.png";
 
 export {
   logo,

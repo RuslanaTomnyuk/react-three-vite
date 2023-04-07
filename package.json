@@ -1,6 +1,6 @@
 {
-  "name": "three-vite",
-  "private": true,
+  "name": "react-three-vite",
+  "homepage": ".",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
